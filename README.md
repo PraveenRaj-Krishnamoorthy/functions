@@ -1,2 +1,3 @@
 # functions
- Functions desc
+ Functions desc<br>
+ function statement alone added
